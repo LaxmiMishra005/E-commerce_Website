@@ -18,7 +18,7 @@ if (loginForm) {
 
         alert("Login Successful!");
 
-        window.location.href = "2.html";
+        window.location.href = "index.html";
 
     });
 
