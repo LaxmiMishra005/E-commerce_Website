@@ -1,12 +1,3 @@
-// Add to Cart Button
-const addCartBtn = document.getElementById("addCart");
-
-if (addCartBtn) {
-    addCartBtn.addEventListener("click", function () {
-        alert("Product added to cart successfully!");
-    });
-}
-
 // Login Form
 const loginForm = document.getElementById("loginForm");
 
